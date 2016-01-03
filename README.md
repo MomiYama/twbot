@@ -5,7 +5,7 @@
 ## Setup
 
 ```
-git clone https://github.com/YamaMomi/twbot your_bot_name
+git clone https://github.com/MomiYama/twbot your_bot_name
 cp sample.env .env
 ```
 
